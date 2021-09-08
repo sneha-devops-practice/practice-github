@@ -1,2 +1,3 @@
  this is sneha i m planning to attend the interviews and i want to get job before my diyas birthday
 hi i m commiting the changes in the git hub
+i m commiting again to check weather i m getting the error while commiting the push command or not
